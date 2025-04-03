@@ -30,16 +30,13 @@
 - **Authentication:** Firebase Auth / JWT  
 - **Deployment:** Vercel / Netlify / GitHub Pages  
 
-## 🎥 Demo  
-🚀 **[Live Demo](#)** *(Add your deployed link here!)*  
 
-## 🖼️ Screenshots  
-*(Add some screenshots or GIFs of your project here!)*  
 
 ## 📂 Installation & Setup  
-To run this project locally, follow these steps:  
+To run this project locally, follow these steps:
 
-```sh
+
+
 # Clone the repository
 git clone https://github.com/your-username/CareFirst.git
 
@@ -50,4 +47,4 @@ cd CareFirst
 npm install
 
 # Start the development server
-npm start
+npm run dev
