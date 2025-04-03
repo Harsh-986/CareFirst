@@ -2,7 +2,6 @@
 
 ### 🌟 A sleek, responsive, and user-friendly React.js project with a modern UI/UX design.
 
-![CareFirst Banner](https://via.placeholder.com/1000x400?text=CareFirst+-+Modern+UI+React+Project)
 
 ## 📌 Overview  
 **CareFirst** is a modern, elegant, and fully responsive **React-based** project designed to deliver a smooth user experience. Built with **Tailwind CSS, React Hooks, and efficient state management**, it offers a **scalable and interactive UI** that adapts to any device.
